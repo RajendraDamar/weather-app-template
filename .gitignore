@@ -1,0 +1,13 @@
+# Large regeneratable dependencies only
+/node_modules
+.expo/
+.expo-shared/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Build artifacts that can be regenerated
+.bundle/
+dist/
+web-build/
